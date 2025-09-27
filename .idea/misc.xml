@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePythonSetting">
+    <option name="pythonIntegrationState" value="YES" />
+  </component>
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/11b" />
+      <file path="$PROJECT_DIR$/137b" />
+      <file path="$PROJECT_DIR$/434" />
+      <file path="$PROJECT_DIR$/473a" />
+      <file path="$PROJECT_DIR$/527" />
+      <file path="$PROJECT_DIR$/538b" />
+      <file path="$PROJECT_DIR$/60b" />
+      <file path="$PROJECT_DIR$/687" />
+      <file path="$PROJECT_DIR$/705" />
+      <file path="$PROJECT_DIR$/70d" />
+      <file path="$PROJECT_DIR$/77d" />
+    </sourceRoots>
+  </component>
+</project>
