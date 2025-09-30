@@ -1,6 +1,7 @@
 #include "array_util.h"
 
-// Функция замены элементов после первого максимума на replacement
+//
+/* Функция замены элементов в массиве arr после первого найденного максимума на replacement */
 void replaceAfterMax(double* arr, int size, double replacement) {
     if (size <= 0) return;
 

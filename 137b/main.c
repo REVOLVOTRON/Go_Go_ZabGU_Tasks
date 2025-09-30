@@ -7,7 +7,7 @@
 
 int main() {
     int n;
-    printf("Введите n: ");
+    printf("Введите n (общее кол-в чисел): ");
     scanf("%d", &n);
 
     double a[n];
@@ -16,7 +16,7 @@ int main() {
         scanf("%lf", &a[i]);
     }
 
-    Node* listB = NULL; // для пункта б)
+    Node* listB = NULL;
 
     // Формируем последовательность: a1^2, a1*a2, ..., a1*an
     for (int i = 0; i < n; i++) {

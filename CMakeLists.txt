@@ -37,3 +37,7 @@ add_executable(538b 538b/main.c
 add_executable(434 434/main.c
         434/array_util.c
         434/array_util.h)
+add_executable(197 197/main.c)
+target_link_libraries(197 m)
+add_executable(334b 334b/main.c)
+add_executable(264 264/main.c)

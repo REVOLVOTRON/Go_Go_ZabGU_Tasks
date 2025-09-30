@@ -5,7 +5,7 @@
 // Функция создания нового узла двусвязного списка с заданным значением
 Node* createNode(double val) {
     // Выделяем память под новый узел
-    Node* newNode = (Node*)malloc(sizeof(Node));
+    Node* newNode = malloc(sizeof(Node));
     // Присваиваем значение
     newNode->value = val;
     // Устанавливаем указатели на NULL, так как узел ещё не связан с другими
